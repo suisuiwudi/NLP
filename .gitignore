@@ -1,5 +1,12 @@
 MITIE-models-v0.2.tar.bz2
 MITIE-models
 Chapter-5-NER/Spacy - CoNLL/en
-stanford-english-corenlp-2018-02-27-models.jar
+Chapter-5-NER/.idea
+stanford-corenlp-full-2018-02-27
+stanford-corenlp-full-2018-02-27.zip
 vowpal_wabbit
+bin
+include
+lib
+vowpalwabbit.egg-info
+pip-selfcheck.json
