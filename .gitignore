@@ -10,3 +10,4 @@ include
 lib
 vowpalwabbit.egg-info
 pip-selfcheck.json
+.ipynb_checkpoints
